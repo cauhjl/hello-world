@@ -1,2 +1,3 @@
 # hello-world
-my tour of Github
+my tour
+Test of commit changes
